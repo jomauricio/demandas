@@ -3,6 +3,7 @@
     "token": "1234567890"
   },
   "logout": {},
+  "passwordreset": {},
   "demands": [
   {
     "id": "1",
