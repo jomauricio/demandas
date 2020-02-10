@@ -4,15 +4,15 @@
   },
   "logout": {},
   "user": {
-    "id": 1,
-    "image": null,
+    "id": "1",
+    "image": "",
     "phone": "58928962898",
     "name": "Beltrano de tal",
     "email": "beltrano@belcom",
     "group": "GOS - IPMT",
-    "group_id": 1,
+    "group_id": "1",
     "address": {
-        "id": 1,
+        "id": "1",
         "description": "Casa",
         "number": "252",
         "complement": "",
@@ -24,7 +24,7 @@
             "name_state": "Teresina - PI"
         }
     }
-},
+  },
   "passwordreset": {},
   "demands": [
   {
