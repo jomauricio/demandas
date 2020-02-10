@@ -10,20 +10,7 @@
     "name": "Beltrano de tal",
     "email": "beltrano@belcom",
     "group": "GOS - IPMT",
-    "group_id": "1",
-    "address": {
-        "id": "1",
-        "description": "Casa",
-        "number": "252",
-        "complement": "",
-        "zipcode": "64057-650",
-        "district": "Vale Quem Tem",
-        "street": "Rua Professora Maria Célia Nascimento",
-        "city": {
-            "id": "3186",
-            "name_state": "Teresina - PI"
-        }
-    }
+    "group_id": "1"
   },
   "passwordreset": {},
   "demands": [
